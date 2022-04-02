@@ -1,0 +1,20 @@
+/* Author:Anu;
+   title:BOOTSTRAP assignment1;*/
+   body{
+   	background-color: #333;
+   }
+
+   .vh-60{
+   	height: 60vh;
+   }
+
+   .vh-40{
+   	height: 40vh;
+   }
+     
+   @media only screen and (max-width: 576px){
+
+     .vh-60{
+     	height: auto;
+     }
+   }
